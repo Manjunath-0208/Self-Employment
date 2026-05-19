@@ -1,0 +1,12 @@
+{
+  "name": "Hasta-Kala Shop",
+  "description": "A premier marketplace for local artisans to showcase and sell handmade crafts, featuring AI-powered tools for product management and personalized recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "firebase",
+    "gemini"
+  ]
+}
